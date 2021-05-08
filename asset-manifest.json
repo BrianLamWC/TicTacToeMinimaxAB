@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TicTacToeMinimaxAB/static/css/main.ab9ae5cb.chunk.css",
+    "main.js": "/TicTacToeMinimaxAB/static/js/main.6b5f6194.chunk.js",
+    "main.js.map": "/TicTacToeMinimaxAB/static/js/main.6b5f6194.chunk.js.map",
+    "runtime-main.js": "/TicTacToeMinimaxAB/static/js/runtime-main.1e951167.js",
+    "runtime-main.js.map": "/TicTacToeMinimaxAB/static/js/runtime-main.1e951167.js.map",
+    "static/js/2.8c89e609.chunk.js": "/TicTacToeMinimaxAB/static/js/2.8c89e609.chunk.js",
+    "static/js/2.8c89e609.chunk.js.map": "/TicTacToeMinimaxAB/static/js/2.8c89e609.chunk.js.map",
+    "static/js/3.d12f10c6.chunk.js": "/TicTacToeMinimaxAB/static/js/3.d12f10c6.chunk.js",
+    "static/js/3.d12f10c6.chunk.js.map": "/TicTacToeMinimaxAB/static/js/3.d12f10c6.chunk.js.map",
+    "index.html": "/TicTacToeMinimaxAB/index.html",
+    "static/css/main.ab9ae5cb.chunk.css.map": "/TicTacToeMinimaxAB/static/css/main.ab9ae5cb.chunk.css.map",
+    "static/js/2.8c89e609.chunk.js.LICENSE.txt": "/TicTacToeMinimaxAB/static/js/2.8c89e609.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e951167.js",
+    "static/js/2.8c89e609.chunk.js",
+    "static/css/main.ab9ae5cb.chunk.css",
+    "static/js/main.6b5f6194.chunk.js"
+  ]
+}
