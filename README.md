@@ -1,2 +1,2 @@
 # TicTacToeMinimaxAB
-Algorithm is in App.js
+Algorithm is in src/App.js
