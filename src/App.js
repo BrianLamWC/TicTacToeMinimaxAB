@@ -253,4 +253,6 @@ function isBoardFull(board){
   return true
 }
 
+//test
+
 export default Game;
